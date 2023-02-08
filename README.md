@@ -6,3 +6,11 @@ Je l'ai réalisé en un peu moins d'une 1h30.
 
 Le but général de l'application est de faire appel à l'api Yelo permettant de récupérer toutes les informations des stations vélos Yélo dans l'agglomération de la Rochelle.
 Ensuite on affiche les informations dans une liste déroulante avec la possibilité d'afficher la station sur google map ou d'afficher toutes les stations.
+
+# Visuel de l'application :
+
+<p align = "center">
+    <img src="menu_principale.jpg" width="32%">
+    <img src="google_station.jpg"  width="32%">
+    <img src="google_stations.jpg" width="32%">
+</p>
