@@ -10,7 +10,7 @@ Ensuite on affiche les informations dans une liste déroulante avec la possibili
 # Visuel de l'application :
 
 <p align = "center">
-    <img src="menu_principale.jpg" width="32%">
-    <img src="google_station.jpg"  width="32%">
-    <img src="google_stations.jpg" width="32%">
+    <img src="menu_principale.png" width="32%">
+    <img src="google_station.png"  width="32%">
+    <img src="google_stations.png" width="32%">
 </p>
